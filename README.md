@@ -15,7 +15,7 @@ https://binaryclassificationwebapp-6ctme9ov3meo2uxaewdurj.streamlit.app/
 - Confusion Matrix, ROC Curve, Precision–Recall Curve
 - Real-time model evaluation
 
-## Tech Stack
+## Tools & Libraries
 - Python
 - Streamlit
 - scikit-learn
