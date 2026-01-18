@@ -20,8 +20,8 @@ from sklearn.metrics import (
 def main():
     st.title("Binary Classification Web App")
     st.sidebar.title("Binary Classification Web App")
-    st.markdown("Are your mushrooms edible or poisonous? 🍄")
-    st.sidebar.markdown("Are your mushrooms edible or poisonous? 🍄")
+    st.markdown("Are your mushrooms edible or poisonous? ")
+    st.sidebar.markdown("Are your mushrooms edible or poisonous? ")
 
     # DATA 
     @st.cache_data
