@@ -2,6 +2,9 @@
 
 A Streamlit-based binary classification app that predicts whether a mushroom is edible or poisonous using classical ML models.
 
+## Link to Web App
+https://binaryclassificationwebapp-6ctme9ov3meo2uxaewdurj.streamlit.app/
+
 ## Models Used
 - Support Vector Machine (SVM)
 - Logistic Regression
@@ -26,3 +29,4 @@ Built as a learning project to understand:
 - Binary classification
 - Model comparison
 - ML metrics visualization
+
